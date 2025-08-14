@@ -5,7 +5,7 @@ Here’s a **detailed personal project launch post** for your **Greenden** websi
 🚀 **Just launched my new personal project – Greenden!**
 Greenden is a **frontend-only plant shop replica website** built entirely with **HTML** and **Tailwind CSS**, designed to showcase modern UI layouts, responsive design, and clean component structuring.
 
-🔗 **Live Demo**: *(Add your GitHub Pages link here)*
+🔗 **Live Demo**: https://vicky-melwin.github.io/greenden-tailwindcss/
 
 🎯 **Project Highlights**:
 
